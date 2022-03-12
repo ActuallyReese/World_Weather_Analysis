@@ -1,1 +1,4 @@
 # World_Weather_Analysis
+
+## Overview
+The purpose of this excercise was to retrieve weather data for a random set of 2,000 latitudes and longitudes and connect that data to the nearest city. I turned that data into a dataframe csv file. I used that data along with user input on temperature preference to identify potential travel destinations along with nearby hotels and put those destinations onto a map in the form of pop-up markers. Afterward, I chose four nearby markers to add to a travel itinerary, showcasing a round-trip route between the destinations. I made sure each city destination pop-up marker displayed the hotel name, city name, country name, and current weather and temperature.
